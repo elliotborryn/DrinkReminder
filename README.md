@@ -10,7 +10,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![License: MIT][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -145,7 +145,7 @@ Project Link: [https://github.com/elliotborryn/DrinkReminder](https://github.com
 [stars-url]: https://github.com/elliotborryn/DrinkReminder/stargazers
 [issues-shield]: https://img.shields.io/github/issues/elliotborryn/DrinkReminder.svg?style=flat-square
 [issues-url]: https://github.com/elliotborryn/DrinkReminder/issues
-[license-shield]: https://img.shields.io/github/license/elliotborryn/DrinkReminder.svg?style=flat-square
+[license-shield]: https://img.shields.io/badge/License-MIT-brightgreen.svg
 [license-url]: https://github.com/elliotborryn/DrinkReminder/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/elliot-borryn-941aba133
