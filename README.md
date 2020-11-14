@@ -146,7 +146,7 @@ Project Link: [https://github.com/elliotborryn/DrinkReminder](https://github.com
 [issues-shield]: https://img.shields.io/github/issues/elliotborryn/DrinkReminder.svg?style=flat-square
 [issues-url]: https://github.com/elliotborryn/DrinkReminder/issues
 [license-shield]: https://img.shields.io/github/license/elliotborryn/DrinkReminder.svg?style=flat-square
-[license-url]: https://github.com/elliotborryn/DrinkReminder/blob/master/LICENSE.txt
+[license-url]: https://github.com/elliotborryn/DrinkReminder/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/elliot-borryn-941aba133
 [product-screenshot]: img/drinkReminderNotification.PNG
