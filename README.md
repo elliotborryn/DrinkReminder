@@ -63,6 +63,8 @@ Nowadays I mostly work at home and I have a lot of meetings, working with client
 * [Visual Code](https://code.visualstudio.com/)
 * [win10toast-persist](https://pypi.org/project/win10toast-persist/)
 * [Advanced Python Scheduler](https://apscheduler.readthedocs.io/en/stable/)
+If you'd like to convert it to executable follow documentation on pyinstaller
+* [Pyinstaller](https://www.pyinstaller.org/)
 
 
 
