@@ -151,5 +151,5 @@ Project Link: [https://github.com/elliotborryn/DrinkReminder](https://github.com
 [license-shield]: https://img.shields.io/badge/License-MIT-brightgreen.svg
 [license-url]: https://github.com/elliotborryn/DrinkReminder/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/elliot-borryn-941aba133
+[linkedin-url]: https://linkedin.com/in/elliotborryn
 [product-screenshot]: img/drinkReminderNotification.PNG
